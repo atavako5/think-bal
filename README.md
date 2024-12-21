@@ -1,5 +1,5 @@
 
-## This is  a quick anxiety worksheet that my therapist gave mae and I turned into a wizard so its easier to follow it also as speech to text capability and runs purely on browser no backend and no database connection
+## This is  a quick anxiety worksheet that my therapist gave me and I turned into a wizard so its easier to follow it also as speech to text capability and runs purely on browser no backend and no database connection
 
 
 
